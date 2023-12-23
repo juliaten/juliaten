@@ -51,4 +51,4 @@ __Test analysis & design__
   * can apply equivalence partitioning, boundary value analysis and methods of pairwise testing to generate test input data
 ## Examples of my work
 ### Work in Jira
-* An example of a project in Jira. Check [the file]([https://drive.google.com/file/d/1uN7R4SGWYZ0zn45id8_CeSzs4sn68BWq/view?usp=sharing](https://drive.google.com/drive/folders/1hskv3nGuJCbTCgraKDTwBAguwcAPkyc8?usp=sharing)https://drive.google.com/drive/folders/1hskv3nGuJCbTCgraKDTwBAguwcAPkyc8?usp=sharing).
+* An example of a project in Jira. Check [the file](https://drive.google.com/drive/folders/1hskv3nGuJCbTCgraKDTwBAguwcAPkyc8?usp=drive_link).
